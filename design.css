@@ -1,0 +1,224 @@
+body{
+background-color: 	#354c7c;
+
+}
+.flex{
+display: inline-block;
+margin-left: 1000px;
+}
+
+a{
+text-decoration: none;
+font-size: xx-large;
+color: white;
+}
+a:hover{
+color:  rgb(49, 177, 228);
+
+}
+
+ul{
+display: flex;
+gap: 1.5rem;
+
+}
+li{
+list-style-type: none;
+
+}
+
+
+h1{
+width: 300px;
+display: inline-block;
+font-size: 40px;
+padding: 15px;
+
+}
+
+.me{
+display: flex;
+justify-content: center;
+margin-top: 90px;
+}
+.box{
+width: 600px;
+color: black;
+margin-right: 30px;
+margin-top: 120px;
+}
+.me-img{
+width: 500px;
+height: 500px;
+border-radius: 15px;
+}
+.boximg{
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+  
+
+}
+.head2,
+.head3{
+    margin: 0px;
+}
+.head3{
+    color: rgb(49, 177, 228);
+}
+
+.button1{
+    background: #354c7c;
+    padding:10px;
+    border:1px solid;
+    border-radius:5px;
+    width: 100px;
+    font: xx-large;
+    color:  rgb(49, 177, 228);
+}
+.button2{
+    background: #354c7c;
+    padding:10px;
+    border:1px solid;
+    border-radius:5px;
+    width: 100px;
+    font: xx-large;
+    color:  rgb(49, 177, 228);
+}
+
+.button1:hover{
+background-color: white;
+}
+.button2:hover{
+    background-color: white;
+
+}
+.para1{
+    color: white;
+}
+.head4{
+color: white;
+}
+.head5{
+ color:rgb(49, 177, 228) ;
+}
+.separate{
+text-align: center;
+
+}
+.para2{
+font-size: 30px;
+width: 600px;
+margin-left: 700px;
+
+}
+.school_images{
+width: 250px;
+height: 250px;
+border-radius: 10px;
+margin-left: 30px;
+}
+
+
+.display{
+display:flex;
+justify-content: center;
+
+}
+
+.school1,
+.school2,
+.school3{
+width: 300px;
+}
+.paras1,
+.paras2,
+.paras3{
+font-size: 20px;
+  
+}
+.box1,
+.box2,
+.box3{
+border:1px solid rgb(49, 177, 228);
+padding: 50px;
+margin: 30px;
+}
+.btn1,
+.btn2,
+.btn3{
+padding: 12px;
+background-color:#354c7c ;
+border: 2px solid rgb(49, 177, 228) ;
+color:  rgb(49, 177, 228) ;
+}
+.btn1:hover{
+    background-color: white;
+}
+.btn2:hover{
+    background-color: white;
+}
+.btn3:hover{
+    background-color: white;
+}
+.skills{
+color: rgb(49, 177, 228) ;
+margin-left: 860px;
+}
+
+.p1,
+.p2,
+.p3,
+.p4{
+color: white;
+font-size: large;
+}
+.skill{
+    color: rgb(49, 177, 228) ;
+    margin-left: 890px;
+
+}
+.block{
+    display:block;
+    color:  rgb(49, 177, 228) ;
+    margin-top:200px ;
+    margin-left: 700px;
+
+}
+.name{
+padding: 10px;
+width: 500px;
+}
+.last{
+padding: 10px;
+width: 500px;
+}
+.email{
+padding: 10px;
+ width: 500px;
+}
+.mess{
+padding: 10px;
+width: 500px;
+height: 100px;
+}
+.jie{
+background: #354c7c;
+padding:10px;
+border:1px solid;
+border-radius:5px;
+width: 100px;
+font: xx-large;
+color:  rgb(49, 177, 228);
+margin-left: 200px;
+margin-top: 20px;
+
+}
+.jie:hover{
+background-color: white;
+
+}
+h1{
+    color: white;
+}
